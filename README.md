@@ -9,7 +9,7 @@
 
 ## Skills & Interests
 
-- Cybersecurity & Ethical Hacking
+- Red & Blue Teaming
 - CTF Player
 - Team work & discipline
 
