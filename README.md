@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hadil LABED | Cybersecurity Student & CTF Player
 
-<!--
-**hadil-005/hadil-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experiences (not exhaustive)
 
-Here are some ideas to get you started:
+- Final Year **Cybersecurity Student** @ **ESTIN** (École Supérieure en Sciences et Technologies de l'Informatique et du Numérique)
+- **Intern** at **Cevital Agro-Industrie**, Béjaia, Algeria
+- **Intern** at **CERIST Research Center**, Algiers, Algeria
+- **Design Department Manager** @ GDSC (Google Developer Student Clubs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Interests
+
+- Cybersecurity & Ethical Hacking
+- CTF Player
+- Team work & discipline
+
+## Certifications (not exhaustive)
+
+- [Networking Basics](#https://www.credly.com/badges/dc5ed21c-2e82-46e1-a9c4-8cd6c154afb1/public_url) - Cisco Networking Academy
+- [Networking Devices and Initial Configuration](#https://www.credly.com/badges/5d92edfd-8d2c-4c5e-b53f-451f2027b7cd/public_url) - Cisco Networking Academy
+- [Pre-Security Path](#https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MJN12SEYYX.pdf)
+
+## Contact
+
+- **Email:** hadillabed22@gmail.com
+- **LinkedIn:** [Hadil Labed](#https://www.linkedin.com/in/hadil-labed/)
